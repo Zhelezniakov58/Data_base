@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city,country
+1,Stephanie,Brown,fhensley@gmail.com,Nguyenbury,Belarus
+2,Joshua,Rogers,juliakelley@hotmail.com,South Bradleyfurt,Tokelau
+3,Tara,Allen,urobles@hinton.biz,Johnstonport,Cameroon
+4,Shelly,Owen,cookalyssa@martinez.com,Smithstad,Tuvalu
+5,Douglas,Hicks,juliancharles@gmail.com,Benjaminbury,Rwanda
+6,Stephanie,Watson,jonesjennifer@diaz-brown.com,Wrightville,Denmark
+7,Kayla,Leach,courtneycarrillo@hotmail.com,Dianaville,Albania
+8,Kelly,Chapman,lking@ramirez.com,North Mark,Samoa
+9,Kurt,Ellis,jessicacaldwell@white-mejia.com,Port Williamborough,Uganda
+10,Aaron,Colon,stephenlee@lee.com,Darrylside,Botswana
+11,David,Hamilton,marshalljohn@hotmail.com,East Coreymouth,Bermuda
+12,Christopher,Estrada,sawyersarah@jacobson-kent.com,Robinsonton,Svalbard & Jan Mayen Islands
+13,Tiffany,Hernandez,rcolon@bennett.com,Davisstad,Cyprus
+14,Daniel,Thomas,bryan15@hotmail.com,Port Barbaraburgh,Gibraltar
+15,David,Ferguson,brownsarah@rodriguez.com,East Johnview,Egypt
+16,Crystal,Ponce,hartheather@yahoo.com,Lake Carol,Singapore
+17,Oscar,Good,gorozco@yahoo.com,Lake Amber,Turkey
+18,William,Clark,owensheather@foster-avila.com,Alyssaport,Bolivia
+19,Kathleen,Taylor,ebray@hotmail.com,Dennischester,Panama
+20,Ryan,Martinez,yperez@ellison.net,East Betty,Poland
+21,Charles,Foster,robertmcclain@yahoo.com,West Tonya,British Indian Ocean Territory (Chagos Archipelago)
+22,Brian,Potts,nscott@stuart-ortega.com,North Sharon,Greenland
+23,Jennifer,Campbell,ijones@dickerson-koch.biz,Christophermouth,British Indian Ocean Territory (Chagos Archipelago)
+24,Sherri,Conway,timothy95@caldwell.com,East Jasonport,Jamaica
+25,Eric,Palmer,sjennings@yahoo.com,Trevinoside,Uganda
+26,Cheryl,Vaughn,joshuaallen@ramirez.com,East Karenview,Botswana
+27,Kayla,Hill,atkinsonchristopher@gallagher.biz,Blankenshipshire,Ethiopia
+28,Matthew,Nelson,bradley28@gmail.com,South Steven,Burkina Faso
+29,Javier,Mcgrath,jensenrebecca@white.com,South James,Philippines
+30,Christopher,Suarez,chase57@flowers-harrison.com,Port Josephland,Reunion
+31,Carolyn,Scott,mjordan@smith.com,North Vickiburgh,Yemen
+32,Amber,Jordan,kevinbrady@jones.com,Harrisonshire,Singapore
+33,Melissa,Coffey,frank74@bailey-davis.com,Amyborough,Bahamas
+34,Sharon,Carson,websterdaniel@burch-edwards.info,Dylanchester,Belarus
+35,Morgan,Richardson,garrettjennifer@gmail.com,Lake Johnstad,Maldives
+36,Kevin,Olson,ydelgado@cox.com,South Julie,Guadeloupe
+37,Michael,Freeman,rhall@duran.com,Michaelmouth,Suriname
+38,Abigail,Hunt,laurenlopez@sanders.com,Wandamouth,Saint Barthelemy
+39,Kathy,Olsen,darrensoto@gmail.com,New Lisaport,South Georgia and the South Sandwich Islands
+40,Michelle,Hicks,melissa55@khan-lawrence.com,Lake Wendyville,Kuwait
+41,Mary,Townsend,courtneysmith@gmail.com,New David,Ukraine
+42,Lisa,May,stephanie57@hotmail.com,Adamberg,Burundi
+43,Lisa,Miller,david83@gonzalez.com,Reginaside,Senegal
+44,Thomas,Tucker,nathaniel30@yahoo.com,Reynoldshaven,Malta
+45,Jeremy,Deleon,umorris@mcdonald.com,Gonzalesland,Ethiopia
+46,Eugene,Schultz,adamsmichael@lambert.net,Whiteville,Liberia
+47,Roger,Winters,jbryant@gmail.com,Lake Joseph,Uzbekistan
+48,Timothy,Campos,juanstuart@hotmail.com,West Lynn,Canada
+49,Melissa,Carlson,nelsonjohn@rivera-cook.net,Lake Kara,Nigeria
+50,Jonathan,Wright,wandaward@hotmail.com,South Rachaeltown,Equatorial Guinea
+51,Jeffrey,Fitzpatrick,meagan37@ramirez-collins.org,North Dawnmouth,Zambia
+52,Julie,Morris,kevin90@hotmail.com,Mitchellchester,France
+53,Courtney,Woods,wisedennis@wright.biz,South Angelaberg,Cook Islands
+54,Tammy,Graham,josephgarza@sims.com,Markstad,San Marino
+55,Joe,Mayo,nelsonbetty@gmail.com,East Amy,Thailand
+56,Gail,Keller,hannahbailey@floyd-hunt.biz,North Kimberlyhaven,Mayotte
+57,Scott,Bruce,cantrelljeffrey@brandt.info,Port Carl,Benin
+58,Jennifer,Campbell,laurenayala@yahoo.com,North Christina,Nauru
+59,Andrea,Smith,kathleen06@ferguson-martin.com,East Jenniferport,Georgia
+60,Anne,Beck,ufranco@gmail.com,Gravesview,Indonesia
+61,Lisa,Gordon,rachel89@hotmail.com,North Monicaville,Ecuador
+62,Kelly,Gilmore,zstewart@mendez-sawyer.com,Jasonfurt,Rwanda
+63,Diane,Cuevas,wardkristen@hotmail.com,Ashleymouth,Montserrat
+64,James,Becker,masseyshannon@yahoo.com,West Jeromebury,Fiji
+65,Brian,Howard,ijones@yahoo.com,Walkerborough,Norfolk Island
+66,Rickey,Simmons,christopher75@wilkinson.com,Conleyland,Saint Pierre and Miquelon
+67,Kim,Hale,george51@hotmail.com,South Georgemouth,Hong Kong
+68,Lisa,Morales,shannon27@morris.com,North Katherineport,Guatemala
+69,Gary,Mullen,lbray@yahoo.com,South Sonyastad,Kenya
+70,Ronald,Boyer,harpercrystal@yahoo.com,Kimberlyfurt,Venezuela
+71,Bill,Austin,sergio13@matthews.com,Riosland,Nicaragua
+72,Hannah,Myers,hobbsjames@gmail.com,Huntton,Bouvet Island (Bouvetoya)
+73,Amanda,Goodwin,bentleyveronica@gmail.com,North Jennifer,Bulgaria
+74,Cody,Wood,georgesmith@yahoo.com,Perkinsside,Czech Republic
+75,Robert,Copeland,ichase@hotmail.com,Myersside,Sao Tome and Principe
+76,Jason,Bennett,ccoffey@blackwell-morgan.com,North Mariamouth,India
+77,Tammy,Carlson,parsonsmary@yahoo.com,Willisborough,Chile
+78,Ana,Stephens,ramirezrebecca@yahoo.com,Debbiefort,Guyana
+79,Samantha,Gutierrez,lisajacobs@gmail.com,Lake Lawrencechester,Israel
+80,Madeline,Lynch,laurenmartin@riley.com,Calderonshire,Saint Helena
+81,Bonnie,Cook,sarahwest@woods-robinson.com,Millermouth,Poland
+82,Anne,Mitchell,gleon@yahoo.com,South Samuelfurt,Lao People's Democratic Republic
+83,Debra,Johnson,wilkinsangela@yahoo.com,Kellyfort,Ecuador
+84,Victoria,Rose,nmccall@yahoo.com,Zimmermanmouth,China
+85,Justin,Johnson,ifernandez@johnson-morrow.info,Scottburgh,Uzbekistan
+86,Robert,Neal,nancy14@clark.com,Lake Kayla,Guam
+87,Toni,Mclean,ophillips@gmail.com,Pedroland,Barbados
+88,Gabrielle,Chapman,fcortez@gibson.com,East Jefferyton,El Salvador
+89,Danielle,Barton,erin17@tate.com,New Gary,Cambodia
+90,Maria,Montoya,kmaldonado@gmail.com,Lake Kimberly,Monaco
+91,Dennis,Thompson,monica82@yahoo.com,Justinview,Thailand
+92,Molly,Adams,bishopdavid@lopez.org,Riceville,Heard Island and McDonald Islands
+93,Kathleen,Thomas,tcarpenter@yahoo.com,Kathryntown,Austria
+94,Daniel,Shaw,waltoncarla@meyer.com,Jessicatown,United States of America
+95,Donald,Glenn,catherine29@moore.com,West Caseyport,Gibraltar
+96,Mark,Washington,debbiethomas@allen.net,Grantport,Czech Republic
+97,Laura,Walsh,geraldcarroll@berger.net,South Brittany,Italy
+98,Rodney,Miller,stewartabigail@gmail.com,South Christopherbury,Philippines
+99,Vanessa,Black,krystal68@hotmail.com,Sampsonport,Kiribati
+100,Brandon,Martinez,hartmelanie@rhodes.com,South Lauren,Vietnam
